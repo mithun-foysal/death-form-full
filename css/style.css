@@ -1,0 +1,16 @@
+
+
+.form-one {
+	background-color: #FEFEE6;
+	padding: 10px 15px;
+	border: 1px solid #ddd;
+}
+
+.checkbox-inline + .checkbox-inline, .radio-inline + .radio-inline {
+    margin-top: 0;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.checkbox-inline, .radio-inline {
+    padding-left: 30px;
+}
